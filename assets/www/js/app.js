@@ -2,7 +2,7 @@
 	
   var CONFIG = {
 			PUSHER: {
-		    APP_KEY: '49e26cb8e9dde3dfc009'
+		    APP_KEY: 'db4e0ad3eb4167c0d997'
 			}
 	};
 	
